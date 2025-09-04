@@ -1,5 +1,5 @@
 ## Hi there 👋  
-![](https://svg-card.hai-hv04.workers.dev/user?username=cjjjjjk)  
+![](https://svg-card.hai-hv04.workers.dev/user?username=cjjjjjk&pl=ts-py-cpp)  
 
 <img src="https://github.com/cjjjjjk/cjjjjjk/blob/main/img/cow-bg.gif" width="747" height="373" />
 
