@@ -1,7 +1,7 @@
 ## Hi there 👋  
-![](https://svg-card.hai-hv04.workers.dev/user?username=cjjjjjk&pl=ts-py-cpp)  
+![](https://svg-card.hai-hv04.workers.dev/user?username=cjjjjjk&limit=4&pl=py-ts-java-cpp&theme=wireframe)  
 
-<img src="https://github.com/cjjjjjk/cjjjjjk/blob/main/img/cow-bg.gif" width="747" height="373" />
+<img src="https://github.com/cjjjjjk/cjjjjjk/blob/main/img/cow-bg.gif" width="1000" height="373" />
 
 <!--
 **cjjjjjk/cjjjjjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
